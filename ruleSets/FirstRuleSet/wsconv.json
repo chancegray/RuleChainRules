@@ -1,11 +1,11 @@
 {
   "name": "wsconv",
   "method": "GET",
-  "authType": "NONE",
+  "authType": "CAS",
   "parse": "TEXT",
-  "url": "",
+  "url": "https://netid.usf.edu/AccountTools/ws_convert.php",
   "springSecurityBaseURL": "",
-  "user": "",
-  "password": "",
+  "user": "chance",
+  "password": "${mypassword}",
   "class": "edu.usf.RuleChains.DefinedService"
 }
