@@ -2,7 +2,7 @@
   "name": "wsconv",
   "method": "GET",
   "authType": "CAS",
-  "parse": "TEXT",
+  "parse": "JSON",
   "url": "https://netid.usf.edu/AccountTools/ws_convert.php",
   "springSecurityBaseURL": "",
   "user": "chance",
