@@ -3,9 +3,9 @@
   "method": "GET",
   "authType": "CAS",
   "parse": "JSON",
-  "url": "https://netid.usf.edu/AccountTools/ws_convert.php",
+  "url": "https://dev.it.usf.edu/vip/services/ws_convert.php",
   "springSecurityBaseURL": "",
-  "user": "chance",
+  "user": "it-testsvcacct",
   "password": "${mypassword}",
   "class": "edu.usf.RuleChains.DefinedService"
 }
