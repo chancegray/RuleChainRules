@@ -1,5 +1,5 @@
 {
   "name": "FirstRule",
-  "rule": "",
+  "rule": "select * from information_schema.tables",
   "class": "edu.usf.RuleChains.SQLQuery"
 }
