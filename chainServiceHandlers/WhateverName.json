@@ -1,0 +1,7 @@
+{
+  "name": "WhateverName",
+  "chain": "MyFirstChain",
+  "inputReorder": "",
+  "outputReorder": "",
+  "method": "GET"
+}
