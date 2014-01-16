@@ -3,7 +3,7 @@
   "name": "ChainNameTest:1389898655328",
   "triggers": 
   [
-    "15 58 13 16 * ? 2014"
+    "15 00 14 16 * ? 2014"
   ],
   "chain": "ChainNameTest",
   "input": 
