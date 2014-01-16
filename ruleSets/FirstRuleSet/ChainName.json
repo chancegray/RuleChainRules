@@ -1,5 +1,5 @@
 {
   "name": "ChainName",
-  "rule": "select ${rcLocals.chain} as chain_name from dual;",
+  "rule": "select '${rcLocals.chain}' as chain_name from dual;",
   "class": "edu.usf.RuleChains.SQLQuery"
 }
