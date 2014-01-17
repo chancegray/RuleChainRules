@@ -2,6 +2,6 @@
   "name": "WhateverName",
   "chain": "MyFirstChain",
   "inputReorder": "",
-  "outputReorder": "you = rows.first()\n\nreturn you.first()",
+  "outputReorder": "return rows.first()\n",
   "method": "GET"
 }
