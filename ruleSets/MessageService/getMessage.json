@@ -2,7 +2,7 @@
   "name": "getMessage",
   "method": "GET",
   "authType": "NONE",
-  "parse": "TEXT",
+  "parse": "JSON",
   "url": "",
   "springSecurityBaseURL": "",
   "user": "",
