@@ -1,7 +1,7 @@
 {
   "sequenceNumber": 1,
   "sourceName": "staging",
-  "inputReorder": "return [ ]",
+  "inputReorder": "return [ row ]",
   "outputReorder": "return [ ]",
   "executeEnum": "EXECUTE_USING_ROW",
   "resultEnum": "NONE",
