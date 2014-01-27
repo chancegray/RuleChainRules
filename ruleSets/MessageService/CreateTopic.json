@@ -3,9 +3,9 @@
   "method": "POST",
   "authType": "BASIC",
   "parse": "JSON",
-  "url": "",
+  "url": "https://dev-netid.usf.edu/MessageService/basic/topic",
   "springSecurityBaseURL": "",
-  "user": "",
+  "user": "it-testsvcacct",
   "password": "",
   "class": "edu.usf.RuleChains.DefinedService"
 }
