@@ -2,7 +2,7 @@
   "sequenceNumber": 1,
   "sourceName": "staging",
   "inputReorder": "",
-  "outputReorder": "",
+  "outputReorder": "return []",
   "executeEnum": "EXECUTE_USING_ROW",
   "resultEnum": "NONE",
   "linkEnum": "NONE",
