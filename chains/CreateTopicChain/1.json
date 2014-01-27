@@ -2,7 +2,7 @@
   "sequenceNumber": 1,
   "sourceName": "staging",
   "inputReorder": "return [ rows ]",
-  "outputReorder": "return [ rows ]",
+  "outputReorder": "return [ globals.mypassword ]",
   "executeEnum": "EXECUTE_USING_ROW",
   "resultEnum": "NONE",
   "linkEnum": "NONE",
