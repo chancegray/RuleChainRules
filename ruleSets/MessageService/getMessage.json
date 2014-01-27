@@ -6,6 +6,6 @@
   "url": "",
   "springSecurityBaseURL": "",
   "user": "it-testsvcacct",
-  "password": "",
+  "password": "getpass",
   "class": "edu.usf.RuleChains.DefinedService"
 }
