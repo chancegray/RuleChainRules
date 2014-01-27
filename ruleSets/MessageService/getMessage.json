@@ -3,7 +3,7 @@
   "method": "GET",
   "authType": "BASIC",
   "parse": "JSON",
-  "url": "",
+  "url": "http://localhost/MessageService/basic",
   "springSecurityBaseURL": "",
   "user": "it-testsvcacct",
   "password": "getpass",
