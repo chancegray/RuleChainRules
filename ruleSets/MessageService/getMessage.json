@@ -1,7 +1,7 @@
 {
   "name": "getMessage",
   "method": "GET",
-  "authType": "NONE",
+  "authType": "BASIC",
   "parse": "JSON",
   "url": "",
   "springSecurityBaseURL": "",
