@@ -5,7 +5,7 @@
   "parse": "JSON",
   "url": "",
   "springSecurityBaseURL": "",
-  "user": "",
+  "user": "it-testsvcacct",
   "password": "",
   "class": "edu.usf.RuleChains.DefinedService"
 }
