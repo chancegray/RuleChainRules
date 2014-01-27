@@ -1,0 +1,12 @@
+{
+  "group": "DEFAULT",
+  "name": "CreateTopicChain:1390837329661",
+  "triggers": 
+  [
+    "0 43 10 27 * ? 2014"
+  ],
+  "chain": "CreateTopicChain",
+  "input": 
+  [
+  ]
+}
