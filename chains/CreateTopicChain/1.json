@@ -1,7 +1,7 @@
 {
   "sequenceNumber": 1,
   "sourceName": "staging",
-  "inputReorder": "return [ rows ]",
+  "inputReorder": "return [ ]",
   "outputReorder": "return [ globals.mypassword ]",
   "executeEnum": "EXECUTE_USING_ROW",
   "resultEnum": "NONE",
