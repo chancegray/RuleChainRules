@@ -1,6 +1,6 @@
 {
   "name": "WhateverName",
-  "chain": "MyFirstChain",
+  "chain": "CreateTopicChain",
   "inputReorder": "",
   "outputReorder": "return rows.first()\n",
   "method": "GET"
