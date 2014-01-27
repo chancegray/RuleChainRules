@@ -1,0 +1,5 @@
+{
+  "name": "CreateQueue",
+  "rule": "",
+  "class": "edu.usf.RuleChains.SQLQuery"
+}
