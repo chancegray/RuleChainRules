@@ -1,6 +1,6 @@
 {
   "name": "CreateTopic",
-  "method": "GET",
+  "method": "PUT",
   "authType": "NONE",
   "parse": "TEXT",
   "url": "",
