@@ -6,6 +6,6 @@
   "url": "https://dev-netid.usf.edu/MessageService/basic/topic",
   "springSecurityBaseURL": "",
   "user": "it-testsvcacct",
-  "password": "",
+  "password": "${mypassword}",
   "class": "edu.usf.RuleChains.DefinedService"
 }
