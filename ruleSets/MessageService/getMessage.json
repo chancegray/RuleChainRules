@@ -6,6 +6,6 @@
   "url": "http://localhost/MessageService/basic",
   "springSecurityBaseURL": "",
   "user": "it-testsvcacct",
-  "password": "getpass",
+  "password": "${mypassword}",
   "class": "edu.usf.RuleChains.DefinedService"
 }
