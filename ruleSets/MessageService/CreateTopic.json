@@ -1,7 +1,7 @@
 {
   "name": "CreateTopic",
   "method": "POST",
-  "authType": "NONE",
+  "authType": "BASIC",
   "parse": "JSON",
   "url": "",
   "springSecurityBaseURL": "",
